@@ -3,7 +3,8 @@
     "name": "MemoApp",
     "slug": "MemoApp",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "privacy":"unlisted",
+        "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
